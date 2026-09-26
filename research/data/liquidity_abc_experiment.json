@@ -1,0 +1,47 @@
+{
+  "A_no_gate": {
+    "funnel": {
+      "scanned": 2911,
+      "ross_passed": 345,
+      "icc_continuation_reached": 124,
+      "risk_approved": 6,
+      "trade_closed": 3
+    },
+    "theoretical_success_n": 119,
+    "theoretical_success_rate": 0.08403361344537816,
+    "executable_success_n": 66,
+    "executable_success_rate": 0.0,
+    "closed_trades": 3,
+    "net_pl": -606.5477317925003
+  },
+  "B_hard_floor_only": {
+    "funnel": {
+      "scanned": 2911,
+      "ross_passed": 345,
+      "icc_continuation_reached": 124,
+      "risk_approved": 4,
+      "trade_closed": 1
+    },
+    "theoretical_success_n": 119,
+    "theoretical_success_rate": 0.08403361344537816,
+    "executable_success_n": 66,
+    "executable_success_rate": 0.0,
+    "closed_trades": 1,
+    "net_pl": -389.9584272524993
+  },
+  "C_participation_aware_only": {
+    "funnel": {
+      "scanned": 2911,
+      "ross_passed": 345,
+      "icc_continuation_reached": 124,
+      "risk_approved": 6,
+      "trade_closed": 3
+    },
+    "theoretical_success_n": 119,
+    "theoretical_success_rate": 0.08403361344537816,
+    "executable_success_n": 66,
+    "executable_success_rate": 0.0,
+    "closed_trades": 3,
+    "net_pl": -190.83310278749997
+  }
+}
